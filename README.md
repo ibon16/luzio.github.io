@@ -12,7 +12,7 @@
 
 ## 1. Quién es responsable del tratamiento
 
-Andres · ibon16@gmail.com
+Andres · andres@happyclient.mx
 
 A efectos del RGPD, el responsable del tratamiento es la persona física que publica esta aplicación en App Store y Google Play.
 
@@ -92,7 +92,7 @@ Si resides en el Espacio Económico Europeo, tienes derecho a:
 - **Oposición** — oponerte al tratamiento basado en interés legítimo
 - **Retirada del consentimiento** — en cualquier momento, sin afectar a la licitud del tratamiento anterior
 
-Para ejercer estos derechos, contáctanos en ibon16@gmail.com. También puedes presentar una reclamación ante la [Agencia Española de Protección de Datos (AEPD)](https://www.aepd.es).
+Para ejercer estos derechos, contáctanos en andres@happyclient.mx. También puedes presentar una reclamación ante la [Agencia Española de Protección de Datos (AEPD)](https://www.aepd.es).
 
 ---
 
@@ -117,7 +117,7 @@ Podemos actualizar esta política ocasionalmente. Publicaremos la nueva versión
 ## 10. Contacto
 
 Si tienes preguntas sobre esta política de privacidad, escríbenos a:
-ibon16@gmail.com
+andres@happyclient.mx
 
 ---
 
